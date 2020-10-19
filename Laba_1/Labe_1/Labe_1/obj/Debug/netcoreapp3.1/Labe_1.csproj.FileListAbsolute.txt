@@ -1,0 +1,13 @@
+D:\ООП\Laba_1\Labe_1\Labe_1\obj\Debug\netcoreapp3.1\Labe_1.AssemblyInfoInputs.cache
+D:\ООП\Laba_1\Labe_1\Labe_1\obj\Debug\netcoreapp3.1\Labe_1.AssemblyInfo.cs
+D:\ООП\Laba_1\Labe_1\Labe_1\obj\Debug\netcoreapp3.1\Labe_1.csproj.CoreCompileInputs.cache
+D:\ООП\Laba_1\Labe_1\Labe_1\obj\Debug\netcoreapp3.1\Labe_1.csprojAssemblyReference.cache
+D:\ООП\Laba_1\Labe_1\Labe_1\bin\Debug\netcoreapp3.1\Labe_1.exe
+D:\ООП\Laba_1\Labe_1\Labe_1\bin\Debug\netcoreapp3.1\Labe_1.deps.json
+D:\ООП\Laba_1\Labe_1\Labe_1\bin\Debug\netcoreapp3.1\Labe_1.runtimeconfig.json
+D:\ООП\Laba_1\Labe_1\Labe_1\bin\Debug\netcoreapp3.1\Labe_1.runtimeconfig.dev.json
+D:\ООП\Laba_1\Labe_1\Labe_1\bin\Debug\netcoreapp3.1\Labe_1.dll
+D:\ООП\Laba_1\Labe_1\Labe_1\bin\Debug\netcoreapp3.1\Labe_1.pdb
+D:\ООП\Laba_1\Labe_1\Labe_1\obj\Debug\netcoreapp3.1\Labe_1.dll
+D:\ООП\Laba_1\Labe_1\Labe_1\obj\Debug\netcoreapp3.1\Labe_1.pdb
+D:\ООП\Laba_1\Labe_1\Labe_1\obj\Debug\netcoreapp3.1\Labe_1.genruntimeconfig.cache
